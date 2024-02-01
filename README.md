@@ -61,4 +61,4 @@ Além disso, há duas visões:
 
 ## Autores
 
-- [Jefferson Sant'ana Galvão](https://gitlab-ce.com/jefferson.galvao) - Geógrafo, Analista de Sistemas. Especialista em Sistema de Informação Espacial (Geoprocessamento).
+- [Jefferson Sant'ana Galvão](https://github.com/hudjinn) - Geógrafo, Analista de Sistemas. Especialista em Sistema de Informação Espacial (Geoprocessamento).
