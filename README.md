@@ -10,13 +10,13 @@
 1. Clone este repositório:
 
     ```bash
-    git clone http://gitlab-ce.funceme.br/jefferson.galvao/banco-impactos-seca.git
+    git clone http://github.com/hudjinn/banco-impactos.git
     ```
 
 2. Navegue até o diretório do repositório:
 
     ```bash
-    cd banco-impactos-seca
+    cd banco-impactos
     ```
 
 3. Execute o seguinte comando para construir o contêiner:
